@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wilkenrivera.com/posts/rerere/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/categories/code-review/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/categories/development/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/tags/development/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/tags/golang/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/posts/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/categories/self-improvement/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/tags/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

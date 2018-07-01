@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://wilkenrivera.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://wilkenrivera.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code Review</title>
+      <link>https://wilkenrivera.com/categories/code-review/</link>
+      <pubDate>Mon, 17 Jul 2017 23:11:24 -0400</pubDate>
+      
+      <guid>https://wilkenrivera.com/categories/code-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://wilkenrivera.com/categories/development/</link>
+      <pubDate>Mon, 17 Jul 2017 23:11:24 -0400</pubDate>
+      
+      <guid>https://wilkenrivera.com/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Improvement</title>
+      <link>https://wilkenrivera.com/categories/self-improvement/</link>
+      <pubDate>Mon, 17 Jul 2017 23:11:24 -0400</pubDate>
+      
+      <guid>https://wilkenrivera.com/categories/self-improvement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+.about-headshot {
+  width: 240px;
+  float: right;
+  clear: both;
+}
+
+.about-headshot img {
+  border-radius: 100px;
+}
+
+@media all and (max-width: 720px) {
+  .about-headshot {
+    width: 120px;
+  }
+  .about-headshot img {
+    border-radius: 50px;
+  }
+}
