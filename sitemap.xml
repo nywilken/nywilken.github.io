@@ -8,12 +8,6 @@
   </url>
   
   <url>
-    <loc>https://wilkenrivera.com/</loc>
-    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://wilkenrivera.com/about/</loc>
   </url>
   
@@ -42,6 +36,12 @@
   
   <url>
     <loc>https://wilkenrivera.com/tags/golang/</loc>
+    <lastmod>2017-07-17T23:11:24-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wilkenrivera.com/</loc>
     <lastmod>2017-07-17T23:11:24-04:00</lastmod>
     <priority>0</priority>
   </url>
