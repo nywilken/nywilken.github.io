@@ -1,0 +1,45 @@
+baseurl = 'http://wilkenrivera.com/'
+languagecode = 'en-us'
+title = 'my reaction to life in the digital age.'
+theme = 'anatole'
+[params]
+author = 'wilken rivera'
+profilepicture = 'images/profile.jpg'
+description = """
+Writings mostly about my thoughts, learnings, 
+and journeys taken throughout my life.
+"""
+[[params.socialicons]]
+icon = "fas fa-code"
+title = "github"
+url = "https://github.com/nywilken"
+[[params.socialicons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:hello@wilkenrivera.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "Talks"
+  weight = 300
+  identifier = "talks"
+  url = "/talks/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
