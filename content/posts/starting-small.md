@@ -1,6 +1,6 @@
 ---
 title: "Starting Small"
-date: 2023-08-14T22:22:07-04:00
+date: 2024-02-16T02:22:07-04:00
 draft: false
 categories: ["Tiny Learnings", "Habits"]
 ---

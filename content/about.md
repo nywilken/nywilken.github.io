@@ -1,15 +1,17 @@
 +++
-title = "About"
+title = "About Me"
 type = "about"
 +++
 
 
-A native New Yorker, born and raised in Brooklyn, of Latin descent with a thing for technology.
+I’m an Open Source, Software Engineer by trade with a passion for Go, mentoring, and community building. When not coding, I lead the GDN (Go Developer Network) program, as a contributing member to GoBridge,  working to continue the mission of increasing diversity within the Go community and empowering the next generation of Go developers. 
 
-### What I Do?
+I am where I am because of the many people who have helped me get here, family, friends, and random strangers. I'm grateful for that help and I am working on paying it forward.
 
-I'm a Software Engineer working with Ruby, and Go. Outside of work, I'm an Open Source contributor, a mentor, family man, an advocate for kindness!
 
-### My Interest!
+### Active Projects
+ - [Packer](https://developer.hashicorp.com/packer), Eng. lead 
+ - [Exercism](https://exercism.org), Long time user & Open Source contributor
+ - [GDN](http://gdn-organizers.gobridge.org), Program Lead
 
-Go - The Go language is insane - there I said it. But more importantly giving back. I am where I am because of the many people who have helped me get here, family, friends, and random strangers. I'm grateful for that help and I am working on paying it forward.
+
