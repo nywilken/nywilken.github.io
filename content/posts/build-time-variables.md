@@ -1,7 +1,6 @@
 ---
 title: "Build Time Variables"
-date: 2023-08-16T20:44:54-04:00
-draft: true
+date: 2024-02-20T06:44:54-04:00
 categories: ["Tiny Learnings", "Development", "Go"]
 ---
 
